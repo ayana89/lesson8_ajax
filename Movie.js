@@ -32,7 +32,7 @@ $(document).ready(function(){
 
             $.ajax({
                 //Insert YOUR API Key after the '=' inside the single quotes.
-                url:'https://api.themoviedb.org/3/search/movie?api_key=INSERT-HERE',
+                url:'https://api.themoviedb.org/3/search/movie?api_key=d6bbcdd5916dbd3d021e324483326e08',
                 data: query
             })
             
